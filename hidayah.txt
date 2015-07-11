@@ -1,0 +1,4 @@
+Ini adalah magic git
+new editing
+:x
+Please enter the commit message for your changes, lines starting
